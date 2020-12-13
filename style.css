@@ -61,3 +61,10 @@ post{
     font-size: 20px;
     justify-content: space-between;
   }
+
+#LLC-Banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:50%; 
+}
