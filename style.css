@@ -24,6 +24,10 @@ h2{
     padding: 10px;
 }
 
+postSpace{
+    font-size: 20px;
+}
+
 p{
     line-height: 1.4em;
 }
@@ -54,5 +58,6 @@ post{
 .abroad {
     display: flex;
     padding: 40px;
+    font-size: 20px;
     justify-content: space-between;
   }
