@@ -1,0 +1,58 @@
+html{
+    background: #E6E9F5;
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 35px;
+    padding: 40px;
+    color: black;
+    border-top: 20px #F95B3D;
+    background: white;
+}
+
+h1{
+    font-size: 3em;
+    color: #F95B3D;
+    margin: 0;
+}
+
+h2{
+    font-size: 3em;
+    color: #F95B3D;
+    margin: 0;
+    padding: 10px;
+}
+
+p{
+    line-height: 1.4em;
+}
+
+post{
+    padding: 10px;
+}
+
+
+
+.navigation{
+    position: sticky;
+    top: 0;
+    left: 50px;
+    color: #F95B3D;
+    padding: 5px;
+    background: #E6E9F5;
+}
+
+.studentID {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+ 
+.abroad {
+    display: flex;
+    padding: 40px;
+    justify-content: space-between;
+  }
